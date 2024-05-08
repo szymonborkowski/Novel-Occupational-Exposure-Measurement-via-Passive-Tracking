@@ -1,9 +1,7 @@
 # Novel Occupational Exposure Measurement via Passive Tracking
 This repository contains the Python script as part of my master's thesis project.
 
-If you are interested in seeing the process and results of the project you can read the master's thesis.
-
-If you are interested in aspects of the project not uploaded to the repository please get in contact with me using the email (szymonborkowski10@gmail.com).
+If you are interested in seeing the process and results of the project or if you are interested in aspects of the project not uploaded to the repository please get in contact with me using the email, szymonborkowski10@gmail.com.
 
 # Project Abstract
 Fluorography is used in medical procedures like angioplasty to visualise arteries and veins in real-time using X-rays. The nature of these surgeries means that the cardiologists performing the procedure need to be present in the surgery room while an X-ray takes place, which results in high occupational radiation exposure during these procedures due to scatter radiation. Despite efforts to mitigate risks, some staff do not comply with safety measures such as utilising lead shields. Observational data suggests compliance issues with wearing dosimeter badges which are meant to measure radiation exposure. 
