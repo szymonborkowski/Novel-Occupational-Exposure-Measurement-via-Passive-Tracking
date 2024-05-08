@@ -1,5 +1,5 @@
 # Novel Occupational Exposure Measurement via Passive Tracking
-This repository contains the Python script as part of my master's thesis project.
+This repository contains the Python script developed as part of my master's thesis project.
 
 If you are interested in seeing the process and results of the project or if you are interested in aspects of the project not uploaded to the repository please get in contact with me using the email, szymonborkowski10@gmail.com.
 
