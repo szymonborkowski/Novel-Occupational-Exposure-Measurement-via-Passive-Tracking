@@ -1,0 +1,5 @@
+This folder requires data extracted from a bag file.
+This includes:
+- PNG RGB frames
+- Metadata textfiles included when extracting PNG RGB frames
+- CSV Depth files
